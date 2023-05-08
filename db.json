@@ -1,0 +1,97 @@
+{
+    "medicine":[
+      {
+        "id":1,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/gmkrpf1imjj9djwvq4gq/tata-1mg-multivitamin-supreme-zinc-calcium-and-vitamin-d-capsule-for-immunity-energy-overall-health.jpg",
+        "price": "₹390" ,
+        "title":"Tata 1mg Multivitamin Supreme, Zinc, Calcium and Vitamin D"
+      },
+      {
+        "id":2,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/qh1au45w8u7cfvf3lg3i/tata-1mg-women-s-multivitamin-veg-tablet-with-zinc-vitamin-c-calcium-vitamin-d-and-iron-support-immunity-bones-overall-health.jpg",
+        "price": 5900 ,
+        "title":"Tata 1mg Women's Multivitamin Veg Tablet with Zinc, Vitamin C,"
+      },
+      {
+        "id":3,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/db0023b9-5fe7-4868-b183-5cf2d8f26dcd/jubilant-nutrihance-diabetes-care-sachet-35gm-each-mango-badam.jpeg",
+        "price": 8100 ,
+        "title":"Jubilant Nutrihance Diabetes Care Sachet (35gm Each) Mango Badam"
+      },
+      {
+        "id":4,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/b3593eb5400649eea49bae16b7e99dd7/zingavita-multivitamins-for-men-with-47-vitamins-omega-3-herbs-tablet.jpg",
+        "price": 5620 ,
+        "title":"Zingavita Multivitamins for Men with 47 Vitamins, Omega 3 & Herb"
+      },
+      {
+        "id":5,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/b3593eb5400649eea49bae16b7e99dd7/zingavita-multivitamins-for-men-with-47-vitamins-omega-3-herbs-tablet.jpg",
+        "price": 7480 ,
+        "title":"Gynoveda Ayurvedic Multivitamin Capsule (30 Each)"
+      },
+      {
+        "id":6,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/oqzulvwz7vikwd63ccco/sbl-syzygium-jambolanum-mother-tincture-q.jpg",
+        "price": "₹93" ,
+        "title":"SBL Syzygium Jambolanum Mother Tincture Q"
+      },
+      {
+        "id":7,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/z4pobowy57pegjmkadba/sbl-dibonil-drop.jpg",
+        "price": "₹115" ,
+        "title":"SBL Dibonil Drop"
+      },
+      {
+        "id":8,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/72de7644e53a44b39192fe138a3da41d/bjain-syzygium-jambolanum-mother-tincture-q.jpg",
+        "price": "₹166" ,
+        "title":"Bjain Syzygium Jambolanum Mother Tincture Q"
+      },
+      {
+        "id":9,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/h5aceivwzqivmqbpis7p/dr.-reckeweg-r40-diabetes-drop-homeopathic-medicine.jpg",
+        "price": "₹230" ,
+        "title":"Dr. Reckeweg R40 Diabetes Drop Homeopathic Medicine"
+      },
+      {
+        "id":10,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/cropped/t3wptk8n3bpu9l31fwrz/dr.-reckeweg-syzygium-jamb-mother-tincture-q.jpg",
+        "price": "₹229" ,
+        "title":"Dr. Reckeweg Syzygium Jamb Mother Tincture Q"
+      },
+      {
+        "id":11,
+        "url":"https://onemg.gumlet.io/images/f_auto,c_fit,h_150,w_150,q_auto/cropped/kx7iwinwtmaykvv8w8l3/dr-willmar-schwabe-india-syzygium-jambolanum-trituration-tablet-1x.jpg",
+        "price": "₹158" ,
+        "title":"Dr Willmar Schwabe India Syzygium Jambolanum Trituration Tablet 1X"
+      }
+    ],
+    "user": [
+        {
+            "id":1,
+            "fName":"Shivansh",
+            "lName": "Soni" ,
+            "email":"officialshivanshsoni@gmail.com",
+            "password": "123456"
+          },
+        {
+            "id":2,
+            "fName":"Abhishek",
+            "lName": "kumar" ,
+            "email":"abhishek@gmail.com",
+            "password": "123456"
+          },
+        {
+            "id":3,
+            "fName":"Ansh",
+            "lName": "kathpal" ,
+            "email":"ansh@gmail.com",
+            "password": "123456"
+          }
+
+    ],
+    "status":[]
+    
+    
+    }
